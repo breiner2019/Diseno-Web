@@ -1,0 +1,157 @@
+body{
+    width: 99%;
+    background: #524D81;
+}
+#Titulo{
+    text-align: center;
+    font-size: 50px;
+    color: orange; 
+    margin-bottom: 50px;
+    text-shadow: blue;
+}
+
+h1, h2{
+    font-family: 'Ubuntu', sans-serif;
+    color: white
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    background: darkblue;
+    width: 99%;
+    padding: 10px;
+}
+p{
+    font-family: 'Barlow Condensed', sans-serif;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+blockquote{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+.Tl{
+    color: darkblue;
+    
+    padding: 5px 30px;
+}
+
+
+header{
+    
+    height: 120px;
+    display: block;
+    background: whitesmoke;
+    font-family: 'Oswald', sans-serif
+    
+}
+footer{
+    clear: both;
+    text-align: center;
+    
+    
+}
+.ft{
+    color: white;
+margin: 3px;
+padding: 3px;
+font-size: 20px;
+}
+article{
+    width: 61%;
+    float: left;
+    margin: 2%;
+    
+}
+aside{
+    width: 27%;
+    margin: 3% 3%;
+    float: right;
+    background:  #F6A024;
+    color: white;
+    border-right: darkblue 7px solid;
+}
+
+#Logo{
+    width: 100px;
+    float: right;
+    margin:17px 80px;
+    
+    
+    
+}
+#Casa{
+   
+    width: 35px;
+
+}
+#libro{
+    width: 200px;
+    margin: 10px auto;
+    display: block;
+    
+
+}
+.Menu{
+    margin: 50px ;
+    height: 35px;
+    
+    display: block;
+    
+}
+.Menu2{
+    margin: 20px;
+    margin-left: 90px;
+    
+    
+    height: 35px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+
+}
+.Menu li{
+
+    display: inline;
+    list-style: none;
+    margin: 3px;
+    text-align: center;
+    padding: 10px;
+    color: darkblue;
+    background: white;
+    border-right: orange 4px solid;
+    
+    
+    
+    
+
+}
+.Menu2 li{
+
+    display: inline;
+    list-style: none;
+    padding: 12px;
+    margin-right: 5px;
+    background: darkblue;
+    color: white;
+    border: solid 1px white;
+    border-right: orange 4px solid;
+    
+    
+
+}
+
+
+
+
+.libro{
+    width: 500px;
+}
+.Mn{
+    color: darkblue;
+}

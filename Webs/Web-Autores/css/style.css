@@ -1,0 +1,117 @@
+.ft{
+    color: white;
+   margin: 3px;
+   padding: 3px;
+   font-size: 20px;
+   font-family: 'Barlow Condensed', sans-serif;
+   }
+footer{
+    margin-top: 20px;
+    text-align: center;
+    clear: both;
+}
+#Titulo{
+    text-align: center;
+    font-size: 50px;
+    color: orange; 
+    margin-bottom: 50px;
+    text-shadow: blue;
+}
+body{
+    width: 99%;
+    background: #524D81;
+}
+header{
+    
+    height: 120px;
+    display: block;
+    background: whitesmoke;
+    font-family: 'Oswald', sans-serif
+    
+}
+.Menu{
+    margin: 50px ;
+    height: 35px;
+    
+    display: block;
+    
+}
+.Mn{
+    color: darkblue;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+}
+.Menu li{
+
+    display: inline;
+    list-style: none;
+    margin: 3px;
+    text-align: center;
+    padding: 10px;
+    color: darkblue;
+    background: white;
+    border-right: orange 4px solid;
+}
+#Logo{
+    width: 100px;
+    float: right;
+    margin:17px 80px;  
+}
+h1, h2{
+    font-family: 'Ubuntu', sans-serif;
+    color: white
+}
+.Tl{
+    color: darkblue;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 5px 30px;
+}
+#Informacion{
+background: darkorange;
+
+
+}
+#Fotod{
+    
+position: absolute;
+left:55% ;
+
+top: 530px;
+
+}
+
+#Datos{
+    border-right: darkblue 8px solid;
+    background:#F6A024;
+    position: relative;
+    left:20% ;
+    bottom: 0px;
+width: 60%;
+padding: 20px;
+
+}
+#Nom{
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+    color: white;
+}
+.Itt{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 25px;
+    color: darkblue;
+    margin: 20px;
+    margin-left: 80px ;
+    
+}
+.It{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
+    color: white;
+    margin: 20px;
+    margin-left: 80px ;
+}
